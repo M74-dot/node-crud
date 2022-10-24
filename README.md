@@ -1,8 +1,11 @@
 # node-crud
+
 RESTAPI 
+
 Dependencies: body-parser, ejs, express js, mongoose, nodemon.
 
 backend: mongo db
+
 frontend: HTML, Bootstrap, ejs
 
 ![image](https://user-images.githubusercontent.com/82174253/197502441-60cd65dc-5f3f-42c0-91ff-2efc1ed0afc0.png)
